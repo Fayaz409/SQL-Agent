@@ -6,7 +6,7 @@
 
 SQLite Data Talk Agent is an intelligent interface that lets you query SQLite databases using natural language. Built with LangGraph and Google Gemini, it translates your plain English questions into SQL queries and provides human-readable responses.
 
-![Demo placeholder](https://via.placeholder.com/800x400?text=Demo+Screenshot)
+
 
 ## ✨ Key Features
 
