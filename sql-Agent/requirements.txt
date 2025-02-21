@@ -1,0 +1,8 @@
+langgraph
+pydantic
+google-generativeai
+google-api-core
+streamlit
+pandas
+loguru
+numpy
